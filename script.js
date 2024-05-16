@@ -36,7 +36,7 @@ function getvalues(){
     outputdiv.className="main1";
 
     var p1 = document.createElement("p");
-    p1.append(`InputDate: ${inputdate}`);
+    p1.append(`BirthDay: ${inputdate}`);
     var p2 = document.createElement("p");
     p2.append(`Years: ${year_diff}`);
     var p3 = document.createElement("p");
