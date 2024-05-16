@@ -1,0 +1,21 @@
+.main{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.main1{
+    text-align: center;
+}
+
+p{
+    margin: 2px;
+}
+
+#dob{
+    width: 35%;
+}
+
+button{
+    margin:10px 10px 15px 15px;
+    margin-trim: 30px;
+}
